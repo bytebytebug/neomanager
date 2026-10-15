@@ -1,0 +1,2 @@
+# neomanager
+Neovim Manager

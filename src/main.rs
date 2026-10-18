@@ -3,7 +3,7 @@ use neomanager::handlers;
 
 fn main() {
     let mut command = Command::new("neomanager")
-        .version("0.2.0")
+        .version("0.3.0")
         .about("Manage neovim configs")
         .arg(
             Arg::new("verbose")
